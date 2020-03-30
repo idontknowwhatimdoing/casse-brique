@@ -1,4 +1,6 @@
 import * as ball from "./ball/ball";
+import * as bricks from "./bricks/bricks";
+import * as paddle from "./paddle/paddle";
 
 function setup() {
 	ball.create_ball();
