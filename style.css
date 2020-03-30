@@ -2,15 +2,9 @@ body {
 	background: #606060;
 	text-align: center;
 	font-size: xx-large;
-	font-family: 'Helvetica', sans-serif;
+	font-family: "Helvetica", sans-serif;
 }
 
 canvas {
-	display: inline-block;
 	background: black;
-	margin: 0 auto;
-}
-
-#score {
-	font-size: larger;
 }
